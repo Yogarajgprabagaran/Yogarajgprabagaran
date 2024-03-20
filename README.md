@@ -7,6 +7,11 @@
 - <b>DataWarehousinng project</b>
   - [DataWarehouse](https://github.com/Yogarajgprabagaran/DataWarehousing)
 
+<h2>📄 Certifications:</h2>
+
+- <b>CompTIA Security+</b>
+- <b>Google Cybersecurity Certificate</b>
+- <b>AWS cloud security foundations</b>
 
 <h2> 🤳 Connect with me:</h2>
 
