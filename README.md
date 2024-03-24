@@ -1,26 +1,25 @@
 <h1>Hi, I'm Yogaraj! <br/><a href="https://github.com/Yogarajgprabagaran">CyberSecurity Analyst</a> <a href="https://www.linkedin.com/in/yogaraj-govindarajalu-prabagaran-29a4321b5"></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects and Labs:</h2>
 
 - <b>SQL injection test project</b>
   - [SQLI test utilizing Javascript](https://github.com/Yogarajgprabagaran/SQL_injection-test)
 - <b>DataWarehousinng project</b>
   - [DataWarehouse](https://github.com/Yogarajgprabagaran/DataWarehousing)
+- <b>Active Directory</b>
+  - [Active Directory](https://github.com/Yogarajgprabagaran/ActiveDirectory)
 
+    
 <h2>📄 Certifications:</h2>
 
-- <b>CompTIA Security+</b>
-- <b>Google Cybersecurity Certificate</b>
+- <b>[CompTIA Security+](https://www.credly.com/badges/4d94f78c-eec2-47e7-b6f6-8b4d857c6f6e/public_url)</b>
+- <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/286db609-ee59-42ce-bcdc-5dee4ddd5a0c/public_url)</b>
+- <b>[Dual credential badge of Cybersecurity by Google and CompTIA](https://www.credly.com/badges/b8e46b76-e2dc-4ca9-8f23-3b336bebd76a/public_url)</b>
 - <b>AWS cloud security foundations</b>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Yogaraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[credly]: https://www.credly.com/users/yogaraj-govindarajalu-prabagaran
+[linkedin]: https://www.linkedin.com/in/yogaraj-govindarajalu-prabagaran-29a4321b5
