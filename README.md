@@ -4,7 +4,7 @@
 
 - <b>SQL injection test project</b>
   - [SQLI test utilizing Javascript](https://github.com/Yogarajgprabagaran/SQL_injection-test)
-- <b>DataWarehousinng project</b>
+- <b>DataWarehousing project</b>
   - [DataWarehouse](https://github.com/Yogarajgprabagaran/DataWarehousing)
 - <b>Active Directory Labs and Projects</b>
   - [Active Directory](https://github.com/Yogarajgprabagaran/ActiveDirectory)
