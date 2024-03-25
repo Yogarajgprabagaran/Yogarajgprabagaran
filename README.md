@@ -6,8 +6,12 @@
   - [SQLI test utilizing Javascript](https://github.com/Yogarajgprabagaran/SQL_injection-test)
 - <b>DataWarehousinng project</b>
   - [DataWarehouse](https://github.com/Yogarajgprabagaran/DataWarehousing)
-- <b>Active Directory</b>
+- <b>Active Directory Labs and Projects</b>
   - [Active Directory](https://github.com/Yogarajgprabagaran/ActiveDirectory)
+- <b>VulnerabilityManagement_utilizing_NessusEssentials</b>
+  - [VulnerabilityManagement_utilizing_NessusEssentials](https://github.com/Yogarajgprabagaran/VulnerabilityManagement_utilizing_NessusEssentials)
+- <b>Network_Security-Labs-and-Projects</b>
+  - [Network_Security-Labs-and-Projects](https://github.com/Yogarajgprabagaran/Network_Security-Labs-and-Projects)
 
     
 <h2>📄 Certifications:</h2>
