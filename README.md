@@ -10,6 +10,8 @@
   - [VulnerabilityManagement_utilizing_NessusEssentials](https://github.com/Yogarajgprabagaran/VulnerabilityManagement_utilizing_NessusEssentials)
 - <b>Network_Security-Labs-and-Projects</b>
   - [Network_Security-Labs-and-Projects](https://github.com/Yogarajgprabagaran/Network_Security-Labs-and-Projects)
+- <b>PenTesting Projects utilizing Kali Linux</b>
+  - [PenTesting Projects utilizing Kali Linux](https://github.com/Yogarajgprabagaran/PenTesting-utilizing-KaliLinux)
 - <b>DataWarehousing project</b>
   - [DataWarehouse](https://github.com/Yogarajgprabagaran/DataWarehousing)
 
