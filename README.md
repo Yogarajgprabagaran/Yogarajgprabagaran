@@ -1,5 +1,5 @@
 <h1>Hi, I'm Yogaraj! <br/><a href="https://github.com/Yogarajgprabagaran">CyberSecurity Analyst</a> <a href="https://www.linkedin.com/in/yogaraj-govindarajalu-prabagaran-29a4321b5"></h1>
-<b> As an induvidual with robust IT background, I'm focused on Blue Team Security and have the following in my IT arsenal: Incident Response; Security Operations & Monitoring; Network Security; Packet Analysis; System Forensics; Network Forensics; Mobile Forensics; Malware Analysis; Threat & Vulnerability Management; Cloud Security; Pentesting. </b>
+<b> I'm focused on Blue Team Security and have the following in my IT arsenal: Incident Response; Security Operations & Monitoring; Network Security; Packet Analysis; System Forensics; Network Forensics; Mobile Forensics; Malware Analysis; Threat & Vulnerability Management; Cloud Security; Pentesting. </b>
 <h2>👨‍💻 Projects and Labs:</h2>
 
 - <b>SQL injection test project</b>
