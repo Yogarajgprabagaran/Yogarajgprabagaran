@@ -2,8 +2,6 @@
 <b> I'm focused on Blue Team Security and have the following in my IT arsenal: Incident Response; Security Operations & Monitoring; Network Security; Packet Analysis; System Forensics; Network Forensics; Mobile Forensics; Malware Analysis; Threat & Vulnerability Management; Cloud Security; Pentesting. </b>
 <h2>👨‍💻 Projects and Labs:</h2>
 
-- <b>SQL injection test project</b>
-  - [SQLI test utilizing Javascript](https://github.com/Yogarajgprabagaran/SQL_injection-test)
 - <b>Active Directory Labs and Projects</b>
   - [Active Directory](https://github.com/Yogarajgprabagaran/ActiveDirectory)
 - <b>VulnerabilityManagement_utilizing_NessusEssentials</b>
@@ -12,6 +10,8 @@
   - [Network_Security-Labs-and-Projects](https://github.com/Yogarajgprabagaran/Network_Security-Labs-and-Projects)
 - <b>PenTesting Projects utilizing Kali Linux</b>
   - [PenTesting Projects utilizing Kali Linux](https://github.com/Yogarajgprabagaran/PenTesting-utilizing-KaliLinux)
+- <b>SQL injection test project</b>
+  - [SQLI test utilizing Javascript](https://github.com/Yogarajgprabagaran/SQL_injection-test)
 - <b>DataWarehousing project</b>
   - [DataWarehouse](https://github.com/Yogarajgprabagaran/DataWarehousing)
 
