@@ -22,7 +22,7 @@
 - <b>[CompTIA Security+](https://www.credly.com/badges/4d94f78c-eec2-47e7-b6f6-8b4d857c6f6e/public_url)</b>
 - <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/286db609-ee59-42ce-bcdc-5dee4ddd5a0c/public_url)</b>
 - <b>[Dual credential badge of Cybersecurity by Google and CompTIA](https://www.credly.com/badges/b8e46b76-e2dc-4ca9-8f23-3b336bebd76a/public_url)</b>
-- <b>AWS cloud security foundations</b>
+- <b>[AWS cloud security foundations](https://www.credly.com/badges/310a1b2a-8a2b-4ff7-a2cd-9edd48934524/public_url)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
