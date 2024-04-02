@@ -1,5 +1,9 @@
-<h1>Hi, I'm Yogaraj! <br/><a href="https://github.com/Yogarajgprabagaran">CyberSecurity Analyst</a> <a href="https://www.linkedin.com/in/yogaraj-govindarajalu-prabagaran-29a4321b5"></h1>
-<b> I'm focused on Blue Team Security and have the following in my IT arsenal: Incident Response; Security Operations & Monitoring; Network Security; Packet Analysis; System Forensics; Network Forensics; Mobile Forensics; Malware Analysis; Threat & Vulnerability Management; Cloud Security; Pentesting. </b>
+<h1>Hi, I'm Yogaraj! <br/><a href="https://github.com/Yogarajgprabagaran">CyberSecurity Junior</a> <a href="https://www.linkedin.com/in/yogaraj-govindarajalu-prabagaran-29a4321b5"></h1>
+- <b> I'm a recent cybersecurity graduate eager to launch a career in the dynamic field of cybersecurity.</b> <br>
+- <b> Proficient in managing and maintaining security tools, analyzing security logs, and responding to security incidents.</b> <br>
+- <b> Seeking to leverage expertise in ensuring computing platform compliance, monitoring, and  identifying malicious activity, and improving Cybersecurity processes to make a significant impact in a dynamic  organization.</b> <br>
+- <b> I'm focused on Blue Team Security and have the following in my IT arsenal: Incident Response; Security Operations & Monitoring; Network Security; Packet Analysis; System Forensics; Network Forensics; Mobile Forensics; Malware Analysis; Threat & Vulnerability Management; Cloud Security; Pentesting. </b> <br>
+- <b> My interests are in Threat Intelligence & Hunting, DFIR, SOC/SIEM & Network Monitoring, Endpoint Security, Cybersecurity & GRC, and Cloud Security. </b>
 <h2>👨‍💻 Projects and Labs:</h2>
 
 - <b>Active Directory Labs and Projects</b>
